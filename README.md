@@ -62,4 +62,4 @@ Mô hình được chia làm 4 phân vùng độc lập nhằm tối ưu hóa hi
 
 ## 📁 5. Tài nguyên Dự án (Project Files)
 
-* **File mô phỏng Cisco Packet Tracer:** [`Enterprise_Network_Design.pkt`](./Enterprise_Network_Design.pkt)
+* **File mô phỏng Cisco Packet Tracer:** [`Enterprise_Network_Design. pkt.pkt`](./Enterprise_Network_Design.pkt.pkt)
