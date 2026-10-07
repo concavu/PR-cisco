@@ -62,4 +62,16 @@ Mô hình được chia làm 4 phân vùng độc lập nhằm tối ưu hóa hi
 
 ## 📁 5. Tài nguyên Dự án (Project Files)
 
-* **File mô phỏng Cisco Packet Tracer:** [`Enterprise_Network_Design. pkt.pkt`](./Enterprise_Network_Design.pkt.pkt)
+* **File mô phỏng Cisco Packet Tracer:** [`Enterprise_Network_Design.pkt`](./Enterprise_Network_Design.pkt)
+
+## ▶️ 6. Cách mở và kiểm tra
+
+1. Cài Cisco Packet Tracer từ Cisco Networking Academy.
+2. Tải `Enterprise_Network_Design.pkt` và mở bằng Packet Tracer.
+3. Chờ các liên kết hội tụ, sau đó kiểm tra VLAN, EtherChannel, OSPF, DHCP, NAT và ACL bằng các thiết bị đầu cuối và CLI.
+
+Các ảnh phía trên là bằng chứng kiểm thử mô phỏng; kết quả có thể thay đổi nếu topology hoặc cấu hình thiết bị được chỉnh sửa.
+
+## ⚠️ Phạm vi
+
+Đây là topology học tập trong Packet Tracer, không phải cấu hình đã triển khai trên thiết bị Cisco vật lý. WAN/Internet trong mô hình chỉ được mô phỏng; không dùng sơ đồ địa chỉ hoặc cấu hình mẫu trực tiếp trong mạng production khi chưa rà soát lại.
